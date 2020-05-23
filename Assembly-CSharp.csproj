@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BFD8851C-C9CA-1C4A-7A11-6ADB7BD798F3}</ProjectGuid>
+    <ProjectGuid>{ED38B61E-70E4-FEC8-F6C0-E1E5317173B4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -68,38 +68,39 @@
     <Compile Include="Assets\MusicPlayer\Scripts\MusicTexture.cs" />
     <Compile Include="Assets\MusicSampler\MusicSampler.cs" />
     <Compile Include="Assets\Starfield Skybox\Demo\Script\LookCamera.cs" />
+    <None Include="Assets\Shaders\Distortion.shader" />
     <None Include="Assets\Node\Sprites\ColorChange.shader" />
     <None Include="Assets\MusicPlayer\Materials\PartHighLit.shader" />
     <None Include="Assets\MusicPlayer\Textures\OutLighting.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/Unity Projects/MUSIC 2077/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>E:/Unity Projects/Music2077/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/Unity Projects/MUSIC 2077/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/Unity Projects/Music2077/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Unity Projects/MUSIC 2077/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/Unity Projects/Music2077/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/Unity Projects/MUSIC 2077/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/Unity Projects/Music2077/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/Unity Projects/MUSIC 2077/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>E:/Unity Projects/Music2077/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/Unity Projects/MUSIC 2077/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/Unity Projects/Music2077/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/Unity Projects/MUSIC 2077/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>E:/Unity Projects/Music2077/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>E:/Unity Projects/MUSIC 2077/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>E:/Unity Projects/Music2077/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Unity Projects/MUSIC 2077/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/Unity Projects/Music2077/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/Unity Projects/MUSIC 2077/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/Unity Projects/Music2077/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>F:/UnityPath/2019.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
